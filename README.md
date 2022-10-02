@@ -2,7 +2,7 @@
 #### Alpaco NPL mini-project
 ### Team
 * 손보영, 이성준, 옥지성, 전영욱, 허 권   
-* [PPT]()
+* [PPT](https://github.com/heokwon/Distinguish_Click-bait/blob/main/%EA%B8%B0%EC%82%AC%EC%9A%94%EC%95%BD%EB%AA%A8%EB%8D%B8.pptx)
 <br><br>
 ## Introduction
 * 기사와 내용일 일치하지않은, 클릭을 유도하는 피시성 기사를 가리기 위해 진행한 프로젝트
